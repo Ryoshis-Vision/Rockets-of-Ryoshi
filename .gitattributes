@@ -6,3 +6,4 @@ music[[:space:]]stems/RoRy_rap.wav filter=lfs diff=lfs merge=lfs -text
 music[[:space:]]stems/RoRy_rocket.wav filter=lfs diff=lfs merge=lfs -text
 music[[:space:]]stems/RoRy_upright[[:space:]]bass.wav filter=lfs diff=lfs merge=lfs -text
 music[[:space:]]stems/RoRy_accordeon_organ.wav filter=lfs diff=lfs merge=lfs -text
+rockets-of-ryoshi-video.mp4 filter=lfs diff=lfs merge=lfs -text
